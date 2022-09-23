@@ -22,8 +22,7 @@ public class Solution {
         if (start > end)
           {  temp = -1;}
         return temp;
-    }
-    
+    }  
 }
 
 # 2. ***Selection sort***
@@ -58,7 +57,6 @@ public class Solution {
             }
         }
     }  
-
 }
 
 # 4. ***Code Merge Two Sorted Arrays***
@@ -98,7 +96,6 @@ public class Solution {
         }
         return arr3;
     }
-
 }
 
 
